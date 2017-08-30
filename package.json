@@ -1,0 +1,14 @@
+{
+  "name": "funcional-programming",
+  "version": "1.0.0",
+  "description": "Aprendendo Programação Funcional",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silas S. Brasil",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
