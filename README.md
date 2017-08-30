@@ -1,6 +1,5 @@
 ## Concepts about Functional Programming
 
-
 #### FIRST-CLASS FUNCTIONS
 First-Class Functions are functions that support other functions
 as arguments and return functions like variable.
@@ -64,3 +63,4 @@ fn( 2 )( 3 )( 4 ) // result: value of fn( 2, 3, 4 )
 ```
 
 ##### If desire using currying in JS you can use ramda ou lodash librarys.
+##### See example with ramda on samples.js
